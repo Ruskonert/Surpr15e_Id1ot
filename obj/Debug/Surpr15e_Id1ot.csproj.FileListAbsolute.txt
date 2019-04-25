@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Surpr15e_Id1ot\bin\Debug\Surpr15e_Id1ot.exe.config
+C:\Users\user\source\repos\Surpr15e_Id1ot\bin\Debug\Surpr15e_Id1ot.exe
+C:\Users\user\source\repos\Surpr15e_Id1ot\bin\Debug\Surpr15e_Id1ot.pdb
+C:\Users\user\source\repos\Surpr15e_Id1ot\obj\Debug\Surpr15e_Id1ot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Surpr15e_Id1ot\obj\Debug\Surpr15e_Id1ot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Surpr15e_Id1ot\obj\Debug\Surpr15e_Id1ot.exe
+C:\Users\user\source\repos\Surpr15e_Id1ot\obj\Debug\Surpr15e_Id1ot.pdb
